@@ -3,7 +3,7 @@
 
 int main(){
 
-	int empleado, empleado2, empleado3, cont, cont2, cantidad;
+	int empleado, empleado2, cont, cont2, cantidad;
 
 	printf("############################################################################### \n");
 	printf("Este programa carga datos de empleados y te deja modificarlos o borrarlos (ABM) \n");
